@@ -108,4 +108,5 @@ figcaption {
   clear: both;
   visibility: hidden;
   height: 0;
+  line-height: 0;
 }
