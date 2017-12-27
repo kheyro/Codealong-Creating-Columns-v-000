@@ -78,6 +78,10 @@ figcaption {
     box-sizing: border-box;
 }
 
+header {
+  position: fixed;
+}
+
 img, video, audio {
   max-width: 100%;
 }
